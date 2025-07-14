@@ -1,0 +1,12 @@
+Escaneo de puertos para 176.84.96.201:
+Puerto 22 abierto (SSH)
+Puerto 80 abierto (HTTP)
+Puerto 443 abierto (HTTPS)
+
+Información WHOIS:
+Domain Name: RIMA-TDE.NET
+Registrar: Acens Technologies, S.L.U.
+Creation Date: [datetime.datetime(2001, 9, 14, 7, 27, 32), datetime.datetime(2001, 9, 14, 9, 27, 32)]
+Expiration Date: [datetime.datetime(2025, 9, 14, 7, 27, 32), datetime.datetime(2025, 9, 14, 9, 27, 32)]
+Name Servers: ['CHRONOS.RIMA-TDE.NET', 'KAIROS.RIMA-TDE.NET']
+Emails: abuse@acens.net
